@@ -1,0 +1,6 @@
+{
+  "name": "PharmaSource AI",
+  "description": "Evidence-grounded pharmaceutical document research assistant with verifiable citations and benchmark evaluation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
